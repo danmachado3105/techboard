@@ -1,10 +1,10 @@
-📊 Techboard – Landing Page
+# 📊 Techboard – Landing Page
 
 Landing page moderna para apresentação de uma plataforma de monitoramento em tempo real, com foco em alertas inteligentes e experiência visual impactante.
 
 ---
 
-🚀 Sobre o Projeto
+### 🚀 Sobre o Projeto
 
 O Techboard é uma landing page desenvolvida a partir de um protótipo criado no Figma, com foco em UI moderna, hierarquia visual e conversão.
 
@@ -24,7 +24,7 @@ Organização de layout
 
 ---
 
-🎨 Processo de Design
+### 🎨 Processo de Design
 
 Antes do desenvolvimento, a interface foi planejada e estruturada no Figma, incluindo:
 
@@ -43,7 +43,7 @@ Essa etapa foi essencial para garantir organização visual e clareza na propost
 
 ---
 
-🛠️ Tecnologias Utilizadas
+### 🛠️ Tecnologias Utilizadas
 
 HTML5
 
@@ -57,7 +57,7 @@ Figma (Design e prototipação)
 
 ---
 
-📱 Responsividade
+### 📱 Responsividade
 
 A página foi desenvolvida com foco em adaptação para:
 
@@ -69,7 +69,7 @@ A página foi desenvolvida com foco em adaptação para:
 
 ---
 
-🎯 Objetivos do Projeto
+### 🎯 Objetivos do Projeto
 
 Praticar construção de landing pages modernas
 
